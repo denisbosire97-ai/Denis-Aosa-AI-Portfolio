@@ -20,6 +20,22 @@ I am an Applied AI student at Houston Community College, specializing in deep le
 ### Deep Learning (ITAI 2376)
 - [CNN Image Classifier (Chihuahua vs Muffin)](DeepLearning-ITAI2376/Project1-CNN-Classifier) - Explored dense neural network image abstraction and training dataset tuning.
 
+### AI History & Concepts (ITAI 1370)
+- [**Advanced AI Agent Concepts Lab**](AI_History_Concepts-ITAI1370/Advanced_Agentic_Concepts/README.md) - A hands-on lab exploring autonomous AI agent workflows and prompt engineering.
+- - [**AI Concepts Lab 09**](AI_History_Concepts-ITAI1370/Lab_09_Concepts/README.md) - Foundational studies in the historical progression of AI, from symbolic systems to modern neural architectures.
+ 
+  - ---
+
+  ## Contact
+
+  - **Email**: denisaosa@example.com
+  - - **LinkedIn**: [linkedin.com/in/denisaosa](https://linkedin.com/in/denisaosa)
+    - - **GitHub**: [github.com/denisbosire97-ai](https://github.com/denisbosire97-ai)
+     
+      - ---
+
+      *This portfolio is continuously updated as I progress through my AI & Robotics studies.*
+      
 ## Contact
 - **Email**: denisaosa@example.com
 - **LinkedIn**: linkedin.com/in/denisaosa
